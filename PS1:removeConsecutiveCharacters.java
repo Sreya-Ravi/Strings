@@ -1,5 +1,5 @@
 // -------------------------------------------------
-// PS0:removeConsecutiveCharacters
+// PS1:removeConsecutiveCharacters
 // -------------------------------------------------
 
 // Link : https://practice.geeksforgeeks.org/problems/consecutive-elements2306/1
